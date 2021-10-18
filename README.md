@@ -1,2 +1,3 @@
 # Niit
-this is my first repositry
+This is my first repositry
+1st comment
